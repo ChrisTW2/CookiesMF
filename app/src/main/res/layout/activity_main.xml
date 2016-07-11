@@ -32,7 +32,7 @@
         android:layout_margin="16dp"
         android:text="EAT COOKIE"
 
-        android:onClick="eat cookie"
+        android:onClick="eatCookie"
         />
 
 
